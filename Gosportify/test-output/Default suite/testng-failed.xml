@@ -6,7 +6,7 @@
       <class name="com.gosportify.Login_FB">
         <methods>
           <include name="Siteload"/>
-          <include name="loginfb"/>
+          <include name="googlelogin"/>
         </methods>
       </class> <!-- com.gosportify.Login_FB -->
     </classes>
